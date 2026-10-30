@@ -65,3 +65,5 @@ Created by ChetsadaCoding
 ⸻
 
 If you find this project useful, feel free to explore the code and suggest improvements!
+
+<img width="1238" height="862" alt="Image 31-10-2569 BE at 00 42" src="https://github.com/user-attachments/assets/105773d2-744c-435d-af69-64d11f4c4f6e" />
